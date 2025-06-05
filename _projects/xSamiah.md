@@ -3,17 +3,17 @@ layout: page
 title: Samiah Hassan
 description: Materials Science and Engineering
 img: assets/img/samiah.jpg
-category: graduate researchers
+category: alumni & past members
 ---
 
-Samiah Hassan is a Master's student in the Department of Materials Science & Engineering. Samiah works on computational modeling of materials to enable new technologies. Outside of research, Samiah enjoys traveling.
+Samiah Hassan pursued a Master's degree in the Department of Materials Science & Engineering. In our group, Samiah worked on computational thermodynamics of alloys under stress and automated extraction of materials data.
 
 ### Education
 
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
         <tr>
-            <th scope="row">~2025</th>
+            <th scope="row">2025</th>
             <td>M.S. in Materials Science and Engineering</td>
             <td>University of Arizona</td>
             <td align ="right">Tucson, AZ</td>
