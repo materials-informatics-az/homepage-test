@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Marat gives a [https://appliedmath.arizona.edu/students/math-586/math-586b-spring-2025-schedule](seminar) at the Applied Math program at U of A on selected problems in structural materials informatics. 
+Marat gives a [seminar](https://appliedmath.arizona.edu/students/math-586/math-586b-spring-2025-schedule) at the Applied Math program on selected problems in structural materials informatics. 

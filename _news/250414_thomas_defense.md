@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Thomas defends his Master's thesis on accelerating design of sustainable concrete for additive manufacturing with machine learning and adaptive experiments. 
+Thomas defends his Master's thesis on accelerated design of sustainable concrete. 

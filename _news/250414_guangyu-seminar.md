@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Guangyu presents his research on graph neural networks for polycrystals at the MSE Graduate Seminar. 
+Guangyu presents his research on graph neural networks at the MSE Graduate Seminar. 
