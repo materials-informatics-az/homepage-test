@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carter Pettid
-description: Computer Science and Statistics
-img: assets/img/profile.jpg
+description: Undergraduate research
+img: assets/img/carter.jpg
 category: alumni & past members 
 ---

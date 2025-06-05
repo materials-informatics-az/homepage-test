@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Samiah Hassan
-description: Materials Science and Engineering
+description: M.S. thesis research
 img: assets/img/samiah.jpg
 category: alumni & past members
 ---

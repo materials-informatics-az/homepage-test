@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Aditya Jain
-description: Management Information Systems
+description: Graduate research
 img: assets/img/aditya.jpg
-category: graduate researchers
+category: alumni & past members
 ---
 
-Aditya Jain is a MS student in the Department of Management Information Systems at the Eller College of Management with a background in Finance having completed a CFA program. He is currently involved in high-throughput data extraction and multimodal machine learning of structural alloys. 
+Aditya Jain pursued a MS student in the Department of Management Information Systems at the Eller College of Management with a background in Finance having completed a CFA program. In our group, Aditya was involved in high-throughput data extraction of materials data. 
 
 ### Education
 
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
         <tr>
-            <th scope="row">~2025</th>
+            <th scope="row">2025</th>
             <td>M.S. in Management Information Systems</td>
             <td>University of Arizona</td>
             <td align ="right">Tucson, AZ</td>

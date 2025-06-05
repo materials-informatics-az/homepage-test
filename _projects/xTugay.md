@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tugay Bilgis
-description: Computer Science
+description: Undergraduate research
 img: assets/img/profile.jpg
 category: alumni & past members
 ---

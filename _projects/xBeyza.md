@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beyza Bozdag
-description: Computer Science
+description: Undergraduate research
 img: assets/img/profile.jpg
 category: alumni & past members
 ---
