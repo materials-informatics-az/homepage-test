@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Thomas' team [Cocoa Potash](https://cocoapotash.com) wins the second prize at the [MIT Water, Food, & Agricalture Innovation Competition](https://mitwaterfoodagprize.org/). 
+Thomas' team [Cocoa Potash](https://cocoapotash.com) wins the second prize at the [MIT Water, Food, & Agricalture Innovation Competition](https://mitwaterfoodagprize.org). 
